@@ -45,9 +45,9 @@ Hooded Man: "Good choice. The name's Johnny. Follow me."
 ---
 
 ## [Follow Johnny]
-The Hooded Man rushes at you with astonishing momentum. 
+Johnny rushes at you with astonishing momentum. 
 He pulls out yet another bottle of dish soap and bashes you across the head with it. 
-*THUNK* The Hooded man challenges you to a dishwashing battle! you:
+*THUNK* ThJohnny challenges you to a dishwashing battle! you:
 
 - [Accept the dishwashing challenge](https://github.com/Henotis/Winter-Boot#accept-the-dishwashing-challenge)
 - [Decline and blast all of the soap in your bottle at him](https://github.com/Henotis/Winter-Boot#decline-and-blast-all-of-the-soap-in-your-bottle-at-him)
