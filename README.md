@@ -75,6 +75,7 @@ You turn your body away from Johnny and go back to sleep.
 Thank you for playing The Legend of a Hooded Man!
 
 ---
-##[The Knife]
+## [The Knife]
+
 Just when the hooded man thought all the options were chosen, I pick the knife and face the hooded man. 
 --- 
